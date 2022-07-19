@@ -168,4 +168,6 @@ public class GUI extends javax.swing.JFrame {
     private javax.swing.JRadioButton jRadioButton2;
     private javax.swing.JPanel p_bg;
     // End of variables declaration//GEN-END:variables
+
+    //bayaya
 }
